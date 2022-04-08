@@ -1,4 +1,9 @@
 # ligo_signal
+<br />
+<div align="center">
+    <img src="images/logo.png" alt="Logo" width="130" height="80">
+  </a>
+</div>
 
 This repository contains `python` scripts to: 
 1. Control and make measurements from a Keysight InfiniiVision 2000 X-Series oscilloscope through a **USB** interface. 
